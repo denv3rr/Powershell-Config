@@ -30,7 +30,7 @@ have scoop and neofetch installed:
 
 
 Loading personal and system profiles took xxxms.
-╭─ (Path Info)   main ≢  ?55 ~3 -46 -- 0ms pwsh RAM 39% 
+╭─ (Path Info)>>(Logos)>> main ?55 ~3 -46 >> 0ms | << pwsh << RAM 39% << --:--:--
 ╰─ >>
 
 
